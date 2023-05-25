@@ -1,1 +1,0 @@
-In this folder a test image should be placed.
